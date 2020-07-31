@@ -1,3 +1,4 @@
 # Knights Basketball NZ
 Knights Basketball New Zealand web site
-This area will be populated soon
+
+A youth basketball club situated in west auckland.  We teach basketball drills and train kids as young as 7 years of age.
